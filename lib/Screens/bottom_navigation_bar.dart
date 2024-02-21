@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:youtube_clone_ui/Screens/homepage.dart';
+import 'package:youtube_clone_ui/Screens/profile_screen.dart';
 
 class YoutubeBottomNavigaton extends StatefulWidget {
   const YoutubeBottomNavigaton({super.key});
@@ -21,9 +22,7 @@ class _YoutubeBottomNavigatonState extends State<YoutubeBottomNavigaton> {
     const Center(
       child: Text('THis is a Subscription Area'),
     ),
-    const Center(
-      child: Text('THis is a Profile Section'),
-    ),
+    const ProfileScreen(),
   ];
 
   @override
