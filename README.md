@@ -5,7 +5,7 @@ This project is a Flutter application aimed at replicating the user interface of
 
 ## Representation 
 
-![Simulator Screen Recording - iPhone 15 - 2024-02-21 at 18 12 40](https://github.com/Abinash022/Youtube-UI-Clone-Flutter/assets/103113945/62707e4d-3126-43fc-88b0-a6cf2721facf)
+[![Simulator Screen Recording - iPhone 15 - 2024-02-21 at 18 12 40](https://github.com/Abinash022/Youtube-UI-Clone-Flutter/assets/103113945/62707e4d-3126-43fc-88b0-a6cf2721facf)](https://github.com/Abinash022/Flutter-Youtube-UI-Clone/assets/103113945/cb6e200e-a08c-4a07-bae0-5d6284647617)
 
 ## Features
 
